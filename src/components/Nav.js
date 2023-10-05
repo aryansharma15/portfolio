@@ -20,9 +20,9 @@ function NavHeader() {
 					width={600}
 				/>
 				<div className="info">
-					<h1 className="name-heading">Welcome!</h1>
+					<h1 className="name-heading">Hi, I'm Aryan</h1>
 					<p className="intro-para">
-						I'm Aryan Sharma, a 22 year old with a passion for design, development, football, physics, comics and quizzing.
+						I'm a Front-End Developer with a Passion for Design, Development and Crafting Engaging Web Experiences.
 					</p>
 					<button className="contact-btn">Get in Touch</button>
 				</div>

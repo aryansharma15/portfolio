@@ -50,6 +50,8 @@ a:hover::after{
 .name-heading{
     font-size: 60px;
     margin-bottom: 20px;
+
+    text-shadow: 3px 3px 10px #000000;
 }
 
 .info{
@@ -61,6 +63,7 @@ a:hover::after{
     width: 550px;
     font-size: 20px;
     margin-bottom: 50px;
+    text-shadow: 2px 2px 5px #000000a5;
 }
 
 button{
@@ -75,9 +78,10 @@ button{
     cursor: pointer;
     transition: background-color 0.3s ease-in-out;
 
-    font-size: 17px;
+    font-size: 18px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-shadow: 2px 2px 4px #0000007e;
+    box-shadow: 3px 3px 10px #000000ac;
 }
 
 button:hover {
@@ -94,6 +98,7 @@ img{
     top: 150px;
     box-shadow: 3px 3px 20px #00000073;
     transition: 200ms ease-in-out;
+    border-radius: 5px;
 }
 
 img:hover{
