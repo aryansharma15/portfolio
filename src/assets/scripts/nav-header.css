@@ -1,0 +1,29 @@
+.nav{
+    /* background: linear-gradient(to right, #001f3f, #008080); */
+    background: linear-gradient(to right, #001f3f, #008080);
+    padding: 30px 80px;
+
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 40px;
+}
+
+.nav a{
+    text-decoration: none;
+    color: #ffffff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 2px 2px 5px #000000;
+    font-size: 18px;
+}
+
+.nav a:hover{
+    font-size: 20px;
+}
+
+.header-body{
+    /* background-color: #001f3f; */
+    background: linear-gradient(to right, #001f3f, #008080);
+    color: #FFD700;
+
+    padding: 30px 50px;
+}
