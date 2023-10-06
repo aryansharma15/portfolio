@@ -1,0 +1,31 @@
+.skills-div {
+    overflow-x: auto;
+    /* Enable horizontal scrolling */
+    white-space: nowrap;
+    /* Prevent wrapping of menu items */
+}
+
+.lang-tech-skills {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: inline-flex;
+    /* Display menu items in a row */
+}
+
+.lang-tech-skills li {
+    padding: 50px 70px;
+    /* Adjust padding as needed */
+    margin-right: 10px;
+    /* Adjust margin between items as needed */
+    background-color: #001f3f;
+    color: #FFD700;
+    border-radius: 20px;
+    /* Rounded corners for each skill item */
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+    /* Add a hover effect */
+
+    text-shadow: 2px 2px 5px #000000a5;;
+}
