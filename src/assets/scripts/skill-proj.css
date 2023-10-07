@@ -1,20 +1,40 @@
+.wrapper{
+    display: flex;
+    margin-top: 50px;
+    align-items: center;
+    margin-left: 80px;
+}
+
+h4{
+    font-size: 20px;
+}
+
+p{
+    width: 200px;
+}
+
 .skills-div {
     overflow-x: auto;
     /* Enable horizontal scrolling */
     white-space: nowrap;
     /* Prevent wrapping of menu items */
+    
+    width: 900px;
+    margin: auto;
 }
 
-.lang-tech-skills {
+.lang-tech-skills, .plat-tech-skills {
     list-style: none;
     padding: 0;
     margin: 0;
+    margin-top: 50px;
     display: inline-flex;
     /* Display menu items in a row */
 }
 
-.lang-tech-skills li {
-    padding: 50px 70px;
+.lang-tech-skills li, .plat-tech-skills li {
+    width: 120px;
+    padding: 50px 50px;
     /* Adjust padding as needed */
     margin-right: 10px;
     /* Adjust margin between items as needed */
@@ -28,4 +48,11 @@
     /* Add a hover effect */
 
     text-shadow: 2px 2px 5px #000000a5;;
+    text-align: center;
 }
+
+.lang-tech-skills li:hover, .plat-tech-skills li:hover{
+    background-color: #008080;
+    color: #ffffff;
+}
+
