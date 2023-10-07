@@ -13,7 +13,7 @@ p{
     width: 200px;
 }
 
-.skills-div {
+.skills-div, .platform-div {
     overflow-x: auto;
     /* Enable horizontal scrolling */
     white-space: nowrap;
