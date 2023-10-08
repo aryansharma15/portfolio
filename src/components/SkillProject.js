@@ -59,6 +59,41 @@ function SkillProject() {
 					<h3>Tech Used</h3>
 					<p>Description</p>
 				</div>
+				<div>
+					<h2>Proj 3</h2>
+					<h3>Tech Used</h3>
+					<p>Description</p>
+				</div>
+				<div>
+					<h2>Proj 3</h2>
+					<h3>Tech Used</h3>
+					<p>Description</p>
+				</div>
+				<div>
+					<h2>Proj 3</h2>
+					<h3>Tech Used</h3>
+					<p>Description</p>
+				</div>
+				<div>
+					<h2>Proj 3</h2>
+					<h3>Tech Used</h3>
+					<p>Description</p>
+				</div>
+				<div>
+					<h2>Proj 3</h2>
+					<h3>Tech Used</h3>
+					<p>Description</p>
+				</div>
+				<div>
+					<h2>Proj 3</h2>
+					<h3>Tech Used</h3>
+					<p>Description</p>
+				</div>
+				<div>
+					<h2>Proj 3</h2>
+					<h3>Tech Used</h3>
+					<p>Description</p>
+				</div>
 			</div>
 		</div>
 	);
