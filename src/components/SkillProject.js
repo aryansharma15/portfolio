@@ -1,5 +1,6 @@
 import React from "react";
 import "../assets/scripts/skill-proj.css";
+import { wordpress } from "fontawesome";
 
 function SkillProject() {
 	return (
